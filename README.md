@@ -3,4 +3,5 @@ This is an android application to search users on GitHub using GitHub API's. whi
 ## Use your own access token to get start  e.g.
 @GET("{username}/followers?access_token= Put Your Access Token Here")
 @GET("{username}?access_token= Put Your Access Token Here")
-
+### Design Patren 
+MVP design pattren is use
